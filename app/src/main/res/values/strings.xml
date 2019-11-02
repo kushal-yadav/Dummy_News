@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">DummyNews</string>
+    <string name="n1">DummyNews1</string>
+    <string name="n2">DummyNews2</string>
+    <string name="n3">DummyNews3</string>
+    <string name="n4">DummyNews4</string>
+    <string name="n5">DummyNews5</string>
+    <string name="n6">DummyNews6</string>
+    <string name="n7">DummyNews7</string>
+    <string name="n8">DummyNews8</string>
+    <string name="ecnews">This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.
+        This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.
+        This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.
+        This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.
+        This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.This is Dummy News 1.
+    </string>
+    <string name="movie2">This is Dummy News 2.This is Dummy News 2.
+        This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.
+        This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2
+        .This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.
+        This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.
+        This is Dummy New2.This is Dummy News 2.This is Dummy News 2.This is Dummy News 2.
+    </string>
+    <string name="movie3">This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.
+        This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.
+        his is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.
+        This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.
+        This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.This is Dummy News 3.
+        This is Dummy News 3.This is Dummy News 3.
+    </string>
+    <string name="sports2">This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.
+        This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.
+        This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.
+        This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.
+        This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.
+        This is Dummy News 4.This is Dummy News 4.This is Dummy News 4.
+    </string>
+    <string name="sports3">This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.
+        This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.
+        This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.
+        This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.
+        This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.This is Dummy News 5.
+        This is Dummy News 5.This is Dummy News5.This is Dummy News 5.This is Dummy News 5.
+    </string>
+    <string name="tech2">This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.
+        This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.
+        This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.
+        This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.
+        his is Dummy News 6.This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.This is Dummy News 6.
+        This is Dummy News 6.This is Dummy News 6.
+        This is Dummy News 6.This is Dummy News 6.
+    </string>
+    <string name="news2">This is Dummy News 7.This is Dummy News 7.This is Dummy News 7
+        This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.
+        This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.
+        This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.
+        This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.
+        This is Dummy News 7.This is Dummy News 7.This is Dummy News 7.
+    </string>
+    <string name="tech1">This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.
+        This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.
+        This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.
+        This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.
+        This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.This is Dummy News 8.
+        This is Dummy News 8.
+    </string>
+
+</resources>
